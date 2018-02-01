@@ -1,0 +1,18 @@
+# large data file #
+###################
+*.mat
+
+# compressed file #
+*.zip
+
+# catch file #
+*.asv
+*.swp
+
+
+# Executable file #
+*.o
+*.mexw64
+*.mex
+*.exe
+
