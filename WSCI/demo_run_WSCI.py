@@ -5,7 +5,7 @@ import tensorflow as tf
 from datasets import dataset_factory
 from nets import nets_factory
 from WSCI_network import WSCI_network
-from auxiliary import load_batch, configure_optimizer, configure_learning_rate, get_variables_to_train, get_init_fn
+from utils import load_batch, configure_optimizer, configure_learning_rate, get_variables_to_train, get_init_fn
 
 tf.app.flags.DEFINE_integer( 'gpu_id', 0, 'The GPU card to use.')
 tf.app.flags.DEFINE_float( 'init_lr', 1e-3, 'The initial learning rate.')
