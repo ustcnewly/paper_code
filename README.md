@@ -14,4 +14,8 @@ This repository contains the code for my conference and journal publications on 
 
 7. **DAFV**: Li Niu, Jianfei Cai, and Dong Xu, "Domain Adaptive Fisher Vector for Visual Recognition", ECCV, 2016.
 
+8. **WSCI**: Li Niu, Qingtao Tang, Ashok Veeraraghavan, Ashu Sabharwal, "Learning from Noisy Web Data with Category-level Supervision”, CVPR, 2018.
+
+9. **AEZSL**: Li Niu, Jianfei Cai, Ashok Veeraraghavan, Liqing Zhang, "Zero-Shot Learning via Category-Specific Visual-Semantic Mapping and Label Refinement", T-IP, 2019. 
+
 This repository also contains two subfolders: utils and tools, which include the utility functions and commonly used libraries respectively. Please copy these two folders under each code folder (e.g., WSDG) corresponding to each paper in order to run the code successfully.
